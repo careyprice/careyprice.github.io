@@ -1,0 +1,23 @@
+body{
+	color: yellow;	
+	background-color: black;
+	}
+h1{
+	padding: 30px;
+	border-style: dashed;
+	text-align: center;
+	}
+p{
+	color: rgb(150,100,200);
+	font-family: serif;
+	font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+	}
+h1{
+	color: blue;
+	}
+h2{
+	color: blue;
+	}
