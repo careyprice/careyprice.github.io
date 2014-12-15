@@ -50,8 +50,11 @@ nav ul{
 	}
 
 nav li{
-	display: inline;
 	padding-left: 2px;
 	padding-bottom: 10px;
 	}
-	
+
+#container{
+		margin-left: 70px;
+		
+		}
