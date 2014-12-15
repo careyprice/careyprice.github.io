@@ -1,0 +1,55 @@
+body{
+	background: white url(images/careypriceimage.jpg) top left;
+	color: yellow;	
+	background-color: black;
+	}
+h1{
+	padding: 30px;
+	border-style: dashed;
+	text-align: center;
+	}
+p{
+	color: rgb(150,100,200);
+	font-family: serif;
+	font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+	}
+h1{
+	color: blue;
+	}
+h2{
+	color: blue;
+	}
+#carey{
+	border-style: groove;
+	border-width: 7px;
+	border-color: white;
+	}
+	
+nav{
+	background-color: rgb(150,100,200);
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	}
+
+nav a{
+	color: white;
+	text-decoration: none;
+
+	}
+
+nav ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	}
+
+nav li{
+	display: inline;
+	padding-left: 20px
+	}
+	
