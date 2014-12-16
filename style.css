@@ -1,12 +1,20 @@
 body{
 	background: white url(images/careypriceimage.jpg) top left;
-	color: yellow;	
+	background-size: cover;
 	background-color: black;
 	}
 h1{
 	padding: 30px;
-	border-style: dashed;
+	border-style: solid;
+	border-width: 10px;
 	text-align: center;
+	font-size: 3.5em;
+	font-weight: bold;
+	font-family: arial, serif;
+	color: white;
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-width: 3px;
 	}
 p{
 	color: rgb(150,100,200);
@@ -16,16 +24,20 @@ p{
     margin: 20px;
     padding: 40px;
 	}
-h1{
-	color: blue;
-	}
+	
 h2{
+	font-size: 2em;
 	color: blue;
+	background-color: #ccc;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
 	}
-#carey{
-	border-style: groove;
-	border-width: 7px;
-	border-color: white;
+#Carey{
+	border: 3px solid #ccc;
+	position: relative;
+    bottom: 8px;
+    left: 30px;
 	}
 	
 nav{
@@ -46,10 +58,13 @@ nav ul{
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
+	padding-bottom: 1px;
 	}
 
 nav li{
 	display: inline;
-	padding-left: 20px
+	font-size: 1.3em;
+	font-weight: bold;
+	padding-left: 30px;
 	}
 	
