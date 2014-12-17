@@ -8,7 +8,7 @@ h1{
 	border-style: solid;
 	border-width: 10px;
 	text-align: center;
-	font-size: 3.5em;
+	font-size: 3.6em;
 	font-weight: bold;
 	font-family: arial, serif;
 	color: white;
@@ -75,5 +75,6 @@ nav li{
 	background-color: #ccc;
     margin: 20px;
     padding: 40px;
-	
+	font-color: rgb(150,100,200);
+	font-size: 1.5em;
 	}
