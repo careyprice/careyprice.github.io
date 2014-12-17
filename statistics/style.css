@@ -3,12 +3,13 @@ body{
 	background-size: cover;
 	background-color: black;
 	}
+	
 h1{
 	padding: 30px;
 	border-style: solid;
 	border-width: 10px;
 	text-align: center;
-	font-size: 3.5em;
+	font-size: 3.6em;
 	font-weight: bold;
 	font-family: arial, serif;
 	color: white;
@@ -16,6 +17,7 @@ h1{
 	-webkit-text-stroke-color: black;
 	-webkit-text-stroke-width: 3px;
 	}
+	
 p{
 	color: rgb(150,100,200);
 	font-family: serif;
@@ -33,6 +35,7 @@ h2{
 	padding: 20px;
 	text-align: center;
 	}
+	
 #Carey{
 	border: 3px solid #ccc;
 	position: relative;
@@ -51,7 +54,6 @@ nav{
 nav a{
 	color: white;
 	text-decoration: none;
-
 	}
 
 nav ul{
@@ -76,4 +78,8 @@ nav li{
 	background-color: #ccc;
     margin: 20px;
     padding: 40px;
+	color: rgb(150,100,200);
+	font-size: 1.5em;
+	text-align: center;
+	list-style: square inside; color:blue
 	}
