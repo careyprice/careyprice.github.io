@@ -65,7 +65,11 @@ nav li{
 	display: inline;
 	font-size: 1.31em;
 	font-weight: bold;
-	padding-left: 30px;
+	padding-left: 35px;
+	background-color: rgb(85, 85, 255);
+    margin: 20px;
+    padding: 20px;
+	padding-bottom: 2px;
 	}
 	
 .lists{
